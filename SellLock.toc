@@ -1,8 +1,8 @@
-## Interface: 16001
+	## Interface: 16001
 ## Title: SellLock
 ## Notes: Locks items so they can't be sold by accident.
 ## IconTexture: Interface\AddOns\SellLock\Media\icon
-## Version: 0.1.0
+## Version: 1.0.0
 ## Author: NuggyNige
 ## LoadSavedVariablesFirst: 1
 ## SavedVariables: SL_DB
