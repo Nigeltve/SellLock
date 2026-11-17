@@ -1,0 +1,3 @@
+<Bindings>
+    <Binding name="SELLLOCK_TOGGLE" header="SELLLOCK" category="ADDONS">SlashCmdList.SELLLOCK("lock")</Binding>
+</Bindings>

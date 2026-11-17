@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: SellLock
+## Notes: Locks items so they can't be sold by accident.
+## IconTexture: Interface\AddOns\SellLock\Media\icon
+## Version: 0.1.0
+## Author: NuggyNige
+## LoadSavedVariablesFirst: 1
+## SavedVariables: SL_DB
+## SavedVariablesPerCharacter: SL_DB_CHAR
+## OptionalDeps: BetterBags
+
+Logger.lua
+Util.lua
+Config.lua
+Locks.lua
+Events.lua
+Slash.lua
+Options.lua
